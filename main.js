@@ -104,14 +104,14 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "FromHeart Tea Order App",
             description: "A mobile application built using Flutter that allows users to easily browse and order their favorite teas. FromHeart provides a seamless user experience with various features like account management, order tracking, and tea promotions. Perfect for tea enthusiasts looking for a convenient way to enjoy their favorite drinks!",
             tags: ["Flutter", "PHP"],
-            image: "img/FromHeart.png",
+            image: "FromHeart.png",
             link: "https://github.com/mawarkarmen/fromheart-tea-ordering-app"
         },
         2: {
             title: "Accounting Information System",
             description: "Designed a user-friendly mobile banking application interface with a focus on accessibility and ease of use. The design includes innovative features like biometric authentication, budgeting tools, and transaction categorization.",
             tags: ["HTML", "CSS", "JavaScript"],
-            image: "img/AIS.png",
+            image: "AIS.png",
             link: "https://github.com/mawarkarmen/production-accounting-system"
         },
         3: {
